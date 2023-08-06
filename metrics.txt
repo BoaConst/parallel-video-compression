@@ -1,0 +1,186 @@
+User has chosen to analyze: [small] video file
+Starting Simple Video Compression
+Time elapsed = 45.101704 seconds
+User has chosen to analyze: [small] video file
+User has chosen to analyze: [small] video file
+Starting Parallel Video Compression for rank: 1
+Starting Parallel Video Compression for rank: 0
+Process 1: Time elapsed = 5.084705 seconds
+Process 0: Time elapsed = 25.188847 seconds
+User has chosen to analyze: [small] video file
+User has chosen to analyze: [small] video file
+User has chosen to analyze: [small] video file
+User has chosen to analyze: [small] video file
+Starting Parallel Video Compression for rank: 1
+Starting Parallel Video Compression for rank: 2
+Starting Parallel Video Compression for rank: 3
+Starting Parallel Video Compression for rank: 0
+Process 3: Time elapsed = 4.689944 seconds
+Process 2: Time elapsed = 8.413869 seconds
+Process 0: Time elapsed = 24.799955 seconds
+Process 1: Time elapsed = 25.971590 seconds
+User has chosen to analyze: [small] video file
+User has chosen to analyze: [small] video file
+User has chosen to analyze: [small] video file
+User has chosen to analyze: [small] video file
+User has chosen to analyze: [small] video file
+User has chosen to analyze: [small] video file
+User has chosen to analyze: [small] video file
+User has chosen to analyze: [small] video file
+Starting Parallel Video Compression for rank: 7
+Starting Parallel Video Compression for rank: 5
+Starting Parallel Video Compression for rank: 0
+Starting Parallel Video Compression for rank: 6
+Starting Parallel Video Compression for rank: 1
+Starting Parallel Video Compression for rank: 2
+Starting Parallel Video Compression for rank: 3
+Starting Parallel Video Compression for rank: 4
+Process 7: Time elapsed = 4.348679 seconds
+Process 6: Time elapsed = 8.254707 seconds
+Process 5: Time elapsed = 11.002861 seconds
+Process 4: Time elapsed = 14.846942 seconds
+Process 2: Time elapsed = 28.998975 seconds
+Process 0: Time elapsed = 29.846896 seconds
+Process 1: Time elapsed = 29.961200 seconds
+Process 3: Time elapsed = 31.679292 seconds
+User has chosen to analyze: [small] video file
+Starting Vanilla Video Compression
+Video Properties: fps = 29.228820, width = 1080, height = 720, total_frames = 3883 
+Time elapsed = 209.205892 seconds
+User has chosen to analyze: [small] video file
+Starting Distributed Video Compression
+Video Properties: fps = 29.228820, width = 1080, height = 720, total_frames = 3883 
+Time elapsed = 125.367453 seconds
+User has chosen to analyze: [small] video file
+Starting Distributed Video Compression
+Video Properties: fps = 29.228820, width = 1080, height = 720, total_frames = 3883 
+Time elapsed = 123.311107 seconds
+User has chosen to analyze: [small] video file
+Starting Distributed Video Compression
+Video Properties: fps = 29.228820, width = 1080, height = 720, total_frames = 3883 
+Time elapsed = 110.094367 seconds
+User has chosen to analyze: [medium] video file
+Starting Simple Video Compression
+Time elapsed = 187.141960 seconds
+User has chosen to analyze: [medium] video file
+User has chosen to analyze: [medium] video file
+Starting Parallel Video Compression for rank: 0
+Starting Parallel Video Compression for rank: 1
+Process 1: Time elapsed = 161.001785 seconds
+Process 0: Time elapsed = 173.721807 seconds
+User has chosen to analyze: [medium] video file
+User has chosen to analyze: [medium] video file
+User has chosen to analyze: [medium] video file
+User has chosen to analyze: [medium] video file
+Starting Parallel Video Compression for rank: 2
+Starting Parallel Video Compression for rank: 3
+Starting Parallel Video Compression for rank: 1
+Starting Parallel Video Compression for rank: 0
+Process 3: Time elapsed = 123.168097 seconds
+Process 0: Time elapsed = 161.678970 seconds
+Process 1: Time elapsed = 165.165727 seconds
+Process 2: Time elapsed = 167.565911 seconds
+User has chosen to analyze: [medium] video file
+User has chosen to analyze: [medium] video file
+User has chosen to analyze: [medium] video file
+User has chosen to analyze: [medium] video file
+User has chosen to analyze: [medium] video file
+User has chosen to analyze: [medium] video file
+User has chosen to analyze: [medium] video file
+User has chosen to analyze: [medium] video file
+Starting Parallel Video Compression for rank: 5
+Starting Parallel Video Compression for rank: 6
+Starting Parallel Video Compression for rank: 0
+Starting Parallel Video Compression for rank: 1
+Starting Parallel Video Compression for rank: 3
+Starting Parallel Video Compression for rank: 7
+Starting Parallel Video Compression for rank: 2
+Starting Parallel Video Compression for rank: 4
+Process 7: Time elapsed = 50.105453 seconds
+Process 5: Time elapsed = 138.190519 seconds
+Process 0: Time elapsed = 149.541648 seconds
+Process 2: Time elapsed = 157.263183 seconds
+Process 1: Time elapsed = 161.289995 seconds
+Process 3: Time elapsed = 163.239720 seconds
+Process 6: Time elapsed = 166.719782 seconds
+Process 4: Time elapsed = 168.155078 seconds
+User has chosen to analyze: [medium] video file
+Starting Vanilla Video Compression
+Video Properties: fps = 29.970030, width = 1280, height = 720, total_frames = 12572 
+Time elapsed = 810.373389 seconds
+User has chosen to analyze: [medium] video file
+Starting Distributed Video Compression
+Video Properties: fps = 29.970030, width = 1280, height = 720, total_frames = 12572 
+Time elapsed = 485.137908 seconds
+User has chosen to analyze: [medium] video file
+Starting Distributed Video Compression
+Video Properties: fps = 29.970030, width = 1280, height = 720, total_frames = 12572 
+Time elapsed = 448.430634 seconds
+User has chosen to analyze: [medium] video file
+Starting Distributed Video Compression
+Video Properties: fps = 29.970030, width = 1280, height = 720, total_frames = 12572 
+Time elapsed = 413.172453 seconds
+User has chosen to analyze: [large] video file
+Starting Simple Video Compression
+Time elapsed = 419.890018 seconds
+User has chosen to analyze: [large] video file
+User has chosen to analyze: [large] video file
+Starting Parallel Video Compression for rank: 0
+Starting Parallel Video Compression for rank: 1
+Process 0: Time elapsed = 369.093145 seconds
+Process 1: Time elapsed = 387.153879 seconds
+User has chosen to analyze: [large] video file
+User has chosen to analyze: [large] video file
+User has chosen to analyze: [large] video file
+User has chosen to analyze: [large] video file
+Starting Parallel Video Compression for rank: 3
+Starting Parallel Video Compression for rank: 2
+Starting Parallel Video Compression for rank: 0
+Starting Parallel Video Compression for rank: 1
+Process 0: Time elapsed = 356.498184 seconds
+Process 1: Time elapsed = 363.541374 seconds
+Process 3: Time elapsed = 377.963130 seconds
+Process 2: Time elapsed = 378.985258 seconds
+User has chosen to analyze: [large] video file
+User has chosen to analyze: [large] video file
+User has chosen to analyze: [large] video file
+User has chosen to analyze: [large] video file
+User has chosen to analyze: [large] video file
+User has chosen to analyze: [large] video file
+User has chosen to analyze: [large] video file
+User has chosen to analyze: [large] video file
+Starting Parallel Video Compression for rank: 2
+Starting Parallel Video Compression for rank: 7
+Starting Parallel Video Compression for rank: 1
+Starting Parallel Video Compression for rank: 5
+Starting Parallel Video Compression for rank: 3
+Starting Parallel Video Compression for rank: 4
+Starting Parallel Video Compression for rank: 6
+Starting Parallel Video Compression for rank: 0
+Process 2: Time elapsed = 348.960844 seconds
+Process 0: Time elapsed = 358.773104 seconds
+Process 3: Time elapsed = 366.038422 seconds
+Process 1: Time elapsed = 366.598055 seconds
+Process 6: Time elapsed = 378.094026 seconds
+Process 5: Time elapsed = 378.932933 seconds
+Process 4: Time elapsed = 385.114653 seconds
+Process 7: Time elapsed = 386.254859 seconds
+User has chosen to analyze: [large] video file
+Starting Vanilla Video Compression
+Video Properties: fps = 29.000000, width = 1920, height = 1080, total_frames = 12142 
+Time elapsed = 1763.711091 seconds
+User has chosen to analyze: [large] video file
+Starting Distributed Video Compression
+Video Properties: fps = 29.000000, width = 1920, height = 1080, total_frames = 12142 
+Time elapsed = 1062.746660 seconds
+User has chosen to analyze: [large] video file
+Starting Distributed Video Compression
+Video Properties: fps = 29.000000, width = 1920, height = 1080, total_frames = 12142 
+Time elapsed = 985.011065 seconds
+User has chosen to analyze: [large] video file
+Starting Distributed Video Compression
+Video Properties: fps = 29.000000, width = 1920, height = 1080, total_frames = 12142 
+Time elapsed = 885.547371 seconds
+User has chosen to analyze: [small] video file
+Video Properties: fps = 29.228820, width = 1080, height = 720, total_frames = 3883 
+Starting Simple Video Compression
